@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Chat",
+  "description": "A ChatGPT-style web application where users can chat with a helpful and creative AI assistant powered by the Gemini API. The application features a real-time, streaming chat interface for a fluid conversational experience.",
+  "requestFramePermissions": []
+}
